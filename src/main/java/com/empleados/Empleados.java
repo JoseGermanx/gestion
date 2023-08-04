@@ -25,7 +25,7 @@ public class Empleados {
              System.out.println("La edad de " + name + " " + lastName + " es " + age);
         System.out.println("Se ha registrado correctamente.");
         } else {
-            System.out.println("No pudimos avanzar con el registro por el empleado tiene menos de 30 años");
+            System.out.println("No pudimos avanzar con el registro por el empleado tiene mas de 30 años");
         }
 
        
